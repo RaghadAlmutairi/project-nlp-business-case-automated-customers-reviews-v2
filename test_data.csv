@@ -1,0 +1,10 @@
+name,categories,reviews.rating,reviews.text,reviews.numHelpful
+"Product A","Electronics",5,"This product is amazing! It works perfectly and I love the quality.",50
+"Product B","Electronics",3,"It's good but has some issues with battery life. Could be improved.",15
+"Product C","Electronics",4,"Great value for the price. I use it every day. Would recommend.",30
+"Product D","Health & Beauty",2,"Not very satisfied. The product didn’t meet my expectations.",5
+"Product E","Health & Beauty",5,"Excellent quality! This is exactly what I was looking for. Very happy with the purchase.",60
+"Product F","Home & Kitchen",1,"Very poor quality. It broke after a week of use. Do not recommend.",2
+"Product G","Home & Kitchen",4,"Works well, but the design could be improved. Still, great for the price.",10
+"Product H","Books",3,"Decent book, but the content was a bit basic. Expected more in-depth information.",8
+"Product I","Books",5,"One of the best books I’ve ever read. Highly recommend it for anyone interested in the subject.",20
